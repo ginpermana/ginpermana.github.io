@@ -1,0 +1,35 @@
+#div1 {
+   background-color: red;
+}
+
+#div2 {
+	background-color: blue;
+	
+}
+
+#div3 {
+	background-color: blue; 
+}
+
+#kalimat1{
+color: black;
+}
+
+.container, .container2 {
+	width: 100px;
+	height: 300px;
+}
+
+.container3 {
+	width: 200px;
+	height: 600px;
+}
+
+body {
+	background-color: yellow;
+
+}
+
+p {
+color:white;
+}
