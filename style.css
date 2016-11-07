@@ -1,0 +1,56 @@
+.header {
+	padding: 15px;
+	margin: 0;
+	background-color: yellow; 
+	text-align: center;
+	border-style: dashed;
+	
+}
+p {
+	font-family: Arial, Courier, serif;
+	
+}
+.body{
+	
+	border: 2px solid black;
+    background-color: #white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin: 30px 30px 30px 30px;
+}
+.comment {
+	
+  
+	color: red;
+	background-color: #f7d3b2;
+	float: right;
+    margin: 30px 30px 30px 30px;
+       border-radius: 25px;
+       border: 5px solid black;
+}
+
+.all {
+	 background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg") no-repeat top center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1, h2{
+	color: red;
+}
+
+h3{
+	text-align: center;
+
+}
+
+ul{
+	word-spacing: 10px;
+	line-height: 200%;
+}
+
+.luar {
+	background-color: red;
+}
